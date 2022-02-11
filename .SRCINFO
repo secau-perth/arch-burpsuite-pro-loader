@@ -1,6 +1,6 @@
 pkgbase = burpsuite-pro
 	pkgdesc = An integrated platform for performing security testing of web applications (professional edition)
-	pkgver = 2021.10.3
+	pkgver = 2022.1.1
 	pkgrel = 1
 	url = https://portswigger.net/burp/
 	install = burpsuite-pro.install
@@ -8,13 +8,13 @@ pkgbase = burpsuite-pro
 	license = custom
 	makedepends = zip
 	depends = java-runtime>=9
-	noextract = burpsuite-pro-2021.10.3.jar
-	source = burpsuite-pro-2021.10.3.jar::https://portswigger.net/burp/releases/download?product=pro&version=2021.10.3&type=Jar
+	noextract = burpsuite-pro-2022.1.1.jar
+	source = burpsuite-pro-2022.1.1.jar::https://portswigger.net/burp/releases/download?product=pro&version=2022.1.1&type=Jar
 	source = https://raw.githubusercontent.com/TrojanAZhen/BurpSuitePro-2.1/master/burp-loader-x-Ai.jar
 	source = burpsuite-pro.desktop
 	source = icon128.png
 	source = splash.png
-	sha256sums = 3b78573498434e8b01187f0db60981f40594cbafa3e388f49364320758de7fdc
+	sha256sums = 5a896484f1e219523cc2564607785021cc1361d7b6ada75cc810966a9430c398
 	sha256sums = 1e54fbbaf3423c8b15b2507cb1e8c18092b0f728aa705ef8d235ac4300cd3e29
 	sha256sums = 740a01fd3feacee5b0563edc4c6634219d367bf2590ecfc954959a95354506c8
 	sha256sums = f9b8bedbab02c8f0e03b2f5e3f99fa003c58d767168c3c4aa135233b3b533d4b
