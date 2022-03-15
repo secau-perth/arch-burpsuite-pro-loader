@@ -1,7 +1,7 @@
 # Maintainer: freb
 
 pkgname=burpsuite-pro
-pkgver=2022.1.1
+pkgver=2022.2.3
 pkgrel=1
 pkgdesc="An integrated platform for performing security testing of web applications (professional edition)"
 url="https://portswigger.net/burp/"
